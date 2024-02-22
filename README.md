@@ -4,8 +4,8 @@ This is a project to create an interactive dashboard using the data of Capital B
 ## Project Status: Completed
 
 ## Project Intro/Objective
-- Goal: create an insightful dashboard to help Capital Bikeshare management team to understand their users’ behavior and rental usage tendency, so they can provide better customer experience and more benefits, which will lead eventually to increased profits.
-- Data: open-source data published by Capital Bikeshare 👉 [link](https://capitalbikeshare.com/system-data)
+- **Goal**: create an insightful dashboard to help the Capital Bikeshare management team understand their users’ behavior and rental usage tendency, so they can provide a better customer experience and more benefits, which will lead eventually to increased profits.
+- **Data**: open-source data published by Capital Bikeshare 👉 [link](https://capitalbikeshare.com/system-data)
   - Sample size: 12,000 (full data: 2.6 M)
   - Duration: 2020. 11 - 2021.10 (1 year)
 
